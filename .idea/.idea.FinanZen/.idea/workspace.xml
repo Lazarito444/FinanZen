@@ -9,7 +9,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9377de69-fd98-4084-b188-c412c29ff3c7" name="Changes" comment="First entities created: User, UserBills, UserEarnings" />
+    <list default="true" id="9377de69-fd98-4084-b188-c412c29ff3c7" name="Changes" comment="First entities created: User, UserBills, UserEarnings">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FinanZen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FinanZen/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Data/FinanZen.Data.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Data/FinanZen.Data.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Data/obj/Debug/net7.0/FinanZen.Data.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Data/obj/Debug/net7.0/FinanZen.Data.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Data/obj/FinanZen.Data.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Data/obj/FinanZen.Data.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Data/obj/FinanZen.Data.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Data/obj/FinanZen.Data.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Data/obj/FinanZen.Data.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Data/obj/FinanZen.Data.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Data/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Data/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Data/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Data/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Data/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Data/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Data/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Data/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Data/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Data/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Test/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Test/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,7 +169,7 @@
       <workItem from="1719455074714" duration="256000" />
       <workItem from="1719521148079" duration="1324000" />
       <workItem from="1719522516353" duration="2684000" />
-      <workItem from="1719574617882" duration="1878000" />
+      <workItem from="1719574617882" duration="2803000" />
     </task>
     <task id="LOCAL-00001" summary="First entities created: User, UserBills, UserEarnings">
       <option name="closed" value="true" />
