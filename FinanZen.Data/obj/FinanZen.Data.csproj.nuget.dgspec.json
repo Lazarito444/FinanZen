@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\RiderProjects\\FinanZen\\FinanZen.Data\\FinanZen.Data.csproj": {}
+    "C:\\Users\\fifao\\Source\\Repos\\FinanZen\\FinanZen.Data\\FinanZen.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\RiderProjects\\FinanZen\\FinanZen.Data\\FinanZen.Data.csproj": {
+    "C:\\Users\\fifao\\Source\\Repos\\FinanZen\\FinanZen.Data\\FinanZen.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\RiderProjects\\FinanZen\\FinanZen.Data\\FinanZen.Data.csproj",
+        "projectUniqueName": "C:\\Users\\fifao\\Source\\Repos\\FinanZen\\FinanZen.Data\\FinanZen.Data.csproj",
         "projectName": "FinanZen.Data",
-        "projectPath": "C:\\Users\\Admin\\RiderProjects\\FinanZen\\FinanZen.Data\\FinanZen.Data.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\RiderProjects\\FinanZen\\FinanZen.Data\\obj\\",
+        "projectPath": "C:\\Users\\fifao\\Source\\Repos\\FinanZen\\FinanZen.Data\\FinanZen.Data.csproj",
+        "packagesPath": "C:\\Users\\fifao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fifao\\Source\\Repos\\FinanZen\\FinanZen.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fifao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -35,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -56,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.317\\RuntimeIdentifierGraph.json"
         }
       }
     }
