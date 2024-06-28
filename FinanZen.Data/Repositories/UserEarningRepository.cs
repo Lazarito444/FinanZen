@@ -16,6 +16,8 @@ public class UserEarningRepository : GenericRepository<UserEarning>, IUserEarnin
     
     public async Task<List<UserEarning>> GetAllWithIncludeAsync(List<string> properties)
     {
+        ArgumentNullException.ThrowIfNull(properties);
+        
         IQueryable<UserEarning> query = _dbContext.Set<UserEarning>().AsQueryable();
     
         foreach (string property in properties)

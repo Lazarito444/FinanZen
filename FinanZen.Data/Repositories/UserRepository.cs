@@ -16,6 +16,8 @@ public class UserRepository : GenericRepository<User>, IUserRepository
 
     public async Task<List<User>> GetAllWithIncludeAsync(List<string> properties)
     {
+        ArgumentNullException.ThrowIfNull(properties);
+        
         IQueryable<User> query = _dbContext.Set<User>().AsQueryable();
         
         foreach (string property in properties)

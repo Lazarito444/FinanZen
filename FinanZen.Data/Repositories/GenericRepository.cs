@@ -16,6 +16,8 @@ public class GenericRepository<Entity> : IGenericRepository<Entity>
 
     public async Task<Entity> AddAsync(Entity entity)
     {
+        ArgumentNullException.ThrowIfNull(entity);
+        
         await _dbContext.Set<Entity>().AddAsync(entity);
         await _dbContext.SaveChangesAsync();
         return entity;
@@ -23,6 +25,9 @@ public class GenericRepository<Entity> : IGenericRepository<Entity>
 
     public async Task UpdateAsync(Entity entity, int id)
     {
+        ArgumentNullException.ThrowIfNull(entity);
+        if (id <= 0) throw new ArgumentOutOfRangeException();
+        
         Entity? entry = await _dbContext.Set<Entity>().FindAsync(id);
         _dbContext.Entry(entry).CurrentValues.SetValues(entity);
         await _dbContext.SaveChangesAsync();
@@ -30,12 +35,16 @@ public class GenericRepository<Entity> : IGenericRepository<Entity>
 
     public async Task DeleteAsync(Entity entity)
     {
+        ArgumentNullException.ThrowIfNull(entity);
+        
         _dbContext.Set<Entity>().Remove(entity);
         await _dbContext.SaveChangesAsync();
     }
 
     public async Task<Entity> GetByIdAsync(int id)
     {
+        if (id <= 0) throw new ArgumentOutOfRangeException();
+        
         return await _dbContext.Set<Entity>().FindAsync(id);
     }
 
