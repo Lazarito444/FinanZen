@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LfTzkpcQgTuEqZYQYuPE+LRIxKD2Da5rkxX+EhlchcOh5YP/a0p7AW30kVvCfqmPRnNV80nPKL8AmXQiBvJsIw==",
+  "dgSpecHash": "ctcpxoY5Iwqxra7mSF8ERz4FZgmzGtvDUpLNRyQO85dpoDB5I2Jq4cB7VRcCnfM4RWJbBEaIGqPN5We3PWrt2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\RiderProjects\\FinanZen\\FinanZen.Web\\FinanZen.Web.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\FinanZen\\FinanZen.Web\\FinanZen.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

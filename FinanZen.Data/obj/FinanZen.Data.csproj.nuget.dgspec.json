@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\RiderProjects\\FinanZen\\FinanZen.Data\\FinanZen.Data.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\FinanZen\\FinanZen.Data\\FinanZen.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\RiderProjects\\FinanZen\\FinanZen.Data\\FinanZen.Data.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\FinanZen\\FinanZen.Data\\FinanZen.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\RiderProjects\\FinanZen\\FinanZen.Data\\FinanZen.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\FinanZen\\FinanZen.Data\\FinanZen.Data.csproj",
         "projectName": "FinanZen.Data",
-        "projectPath": "C:\\Users\\Admin\\RiderProjects\\FinanZen\\FinanZen.Data\\FinanZen.Data.csproj",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\FinanZen\\FinanZen.Data\\FinanZen.Data.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\RiderProjects\\FinanZen\\FinanZen.Data\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\FinanZen\\FinanZen.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

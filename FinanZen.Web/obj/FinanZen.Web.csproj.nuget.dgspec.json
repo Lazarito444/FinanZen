@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\RiderProjects\\FinanZen\\FinanZen.Web\\FinanZen.Web.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\FinanZen\\FinanZen.Web\\FinanZen.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\RiderProjects\\FinanZen\\FinanZen.Web\\FinanZen.Web.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\FinanZen\\FinanZen.Web\\FinanZen.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\RiderProjects\\FinanZen\\FinanZen.Web\\FinanZen.Web.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\FinanZen\\FinanZen.Web\\FinanZen.Web.csproj",
         "projectName": "FinanZen.Web",
-        "projectPath": "C:\\Users\\Admin\\RiderProjects\\FinanZen\\FinanZen.Web\\FinanZen.Web.csproj",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\FinanZen\\FinanZen.Web\\FinanZen.Web.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\RiderProjects\\FinanZen\\FinanZen.Web\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\FinanZen\\FinanZen.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

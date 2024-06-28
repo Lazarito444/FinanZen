@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4tXfTm4uZuDaYNbqAiMzOZE/B6MQ99d5w/H1EteMadJgqcyDdk85e/k2PWM/QQzquoxv+IAER9bUt2uOHSpcZg==",
+  "dgSpecHash": "vh1FOJSr8Xs65Tk4pCVfyE4tzhiHXRxtsTJAo+N5tKc+GAcA2RBEo4WxLD8CQNE45cYiGxAVHBXUHneTDpqxxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\RiderProjects\\FinanZen\\FinanZen.Test\\FinanZen.Test.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\FinanZen\\FinanZen.Test\\FinanZen.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.codecoverage\\17.7.1\\microsoft.codecoverage.17.7.1.nupkg.sha512",
