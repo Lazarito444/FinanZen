@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "b8bBnwBlv8az42BcKHsgVDyRplwG7xtPlhof5NF0AJC0KvNn+OTRuiViuG9B8QhtPFH3hEYYu9oqUQu+ep0FPA==",
+  "dgSpecHash": "WTtRi4HZ87nXlPAkrUh3P7W5pjMsuPGSeLyjwgF5F0Q/GNWnjAhjRUcDY1hRD68V8dhfb9wZcnJI6rjNmXmBmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fifao\\Source\\Repos\\FinanZen\\FinanZen.Web\\FinanZen.Web.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\UserGPC\\Source\\Repos\\FinanZen\\FinanZen.Web\\FinanZen.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserGPC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\UserGPC\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\UserGPC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\UserGPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

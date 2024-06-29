@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fifao\\Source\\Repos\\FinanZen\\FinanZen.Web\\FinanZen.Web.csproj": {}
+    "C:\\Users\\UserGPC\\Source\\Repos\\FinanZen\\FinanZen.Web\\FinanZen.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fifao\\Source\\Repos\\FinanZen\\FinanZen.Web\\FinanZen.Web.csproj": {
+    "C:\\Users\\UserGPC\\Source\\Repos\\FinanZen\\FinanZen.Web\\FinanZen.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fifao\\Source\\Repos\\FinanZen\\FinanZen.Web\\FinanZen.Web.csproj",
+        "projectUniqueName": "C:\\Users\\UserGPC\\Source\\Repos\\FinanZen\\FinanZen.Web\\FinanZen.Web.csproj",
         "projectName": "FinanZen.Web",
-        "projectPath": "C:\\Users\\fifao\\Source\\Repos\\FinanZen\\FinanZen.Web\\FinanZen.Web.csproj",
-        "packagesPath": "C:\\Users\\fifao\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fifao\\Source\\Repos\\FinanZen\\FinanZen.Web\\obj\\",
+        "projectPath": "C:\\Users\\UserGPC\\Source\\Repos\\FinanZen\\FinanZen.Web\\FinanZen.Web.csproj",
+        "packagesPath": "C:\\Users\\UserGPC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UserGPC\\Source\\Repos\\FinanZen\\FinanZen.Web\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\fifao\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\UserGPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,8 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.317\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,6 +55,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -69,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.317\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
         }
       }
     }
