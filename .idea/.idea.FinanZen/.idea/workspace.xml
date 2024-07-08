@@ -9,14 +9,70 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9377de69-fd98-4084-b188-c412c29ff3c7" name="Changes" comment="First entities created: User, UserBills, UserEarnings" />
+    <list default="true" id="9377de69-fd98-4084-b188-c412c29ff3c7" name="Changes" comment="First entities created: User, UserBills, UserEarnings">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FinanZen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FinanZen/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Data/Contexts/ApplicationContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Data/Contexts/ApplicationContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Data/obj/Debug/net7.0/FinanZen.Data.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Data/obj/Debug/net7.0/FinanZen.Data.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Data/obj/Debug/net7.0/FinanZen.Data.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Data/obj/Debug/net7.0/FinanZen.Data.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Data/obj/Debug/net7.0/FinanZen.Data.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Data/obj/Debug/net7.0/FinanZen.Data.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Data/obj/Debug/net7.0/FinanZen.Data.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Data/obj/Debug/net7.0/FinanZen.Data.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Data/obj/FinanZen.Data.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Data/obj/FinanZen.Data.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Data/obj/FinanZen.Data.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Data/obj/FinanZen.Data.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Data/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Data/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Data/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Data/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Data/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Data/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Data/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Data/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Data/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Data/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/bin/Debug/net7.0/FinanZen.Web.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/bin/Debug/net7.0/FinanZen.Web.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/bin/Debug/net7.0/FinanZen.Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/bin/Debug/net7.0/FinanZen.Web.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/bin/Debug/net7.0/FinanZen.Web.exe" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/bin/Debug/net7.0/FinanZen.Web.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/bin/Debug/net7.0/FinanZen.Web.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/bin/Debug/net7.0/FinanZen.Web.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/bin/Debug/net7.0/FinanZen.Web.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/bin/Debug/net7.0/FinanZen.Web.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/bin/Debug/net7.0/FinanZen.Web.staticwebassets.runtime.json" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/bin/Debug/net7.0/FinanZen.Web.staticwebassets.runtime.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/FinanZen.Web.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/FinanZen.Web.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/FinanZen.Web.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/FinanZen.Web.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/FinanZen.Web.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/FinanZen.Web.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/FinanZen.Web.RazorAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/FinanZen.Web.RazorAssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/FinanZen.Web.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/FinanZen.Web.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/FinanZen.Web.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/FinanZen.Web.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/FinanZen.Web.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/FinanZen.Web.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/FinanZen.Web.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/FinanZen.Web.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/FinanZen.Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/FinanZen.Web.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/FinanZen.Web.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/FinanZen.Web.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/FinanZen.Web.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/FinanZen.Web.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/FinanZen.Web.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/FinanZen.Web.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/ref/FinanZen.Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/ref/FinanZen.Web.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/refint/FinanZen.Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/refint/FinanZen.Web.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/staticwebassets.build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/staticwebassets.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/staticwebassets.development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/staticwebassets.pack.json" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/obj/Debug/net7.0/staticwebassets.pack.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/obj/FinanZen.Web.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/obj/FinanZen.Web.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/obj/FinanZen.Web.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/obj/FinanZen.Web.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.Web/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.Web/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinanZen.sln" beforeDir="false" afterPath="$PROJECT_DIR$/FinanZen.sln" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DpaMonitoringSettings">
+    <option name="autoShow" value="false" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/dotnet/efcore/136f129ddca49729a24f0e65465fc638bd584c70/src/EFCore/DbContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/dotnet/efcore/136f129ddca49729a24f0e65465fc638bd584c70/src/EFCore/Metadata/Builders/EntityTypeBuilder%60.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/dotnet/runtime/0fb6ac59fb1edbe4ed3ad62661df0eb7eacd7903/src/libraries/System.Private.CoreLib/src/System/DateTime.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/34e54cf52b4a4c2b82645ccc3a46837e5e000/10/6fd16ccf/ProxyGenerator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/999ae9cc4ab7b7cfbc5080803e994426e97fd9d87c5b1f44544a799bc114/StringAsserts.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -31,26 +87,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Launch Settings Profile.Web: http.executor": "Run",
+    "3d1f8090-613f-49aa-89ae-5075176d6bcf.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "a3c02f6e-4d6d-4f16-ac11-17a614c1ee0e.executor": "Debug",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editing.templates",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;C:\\Users\\Admin\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache&quot;,
-      &quot;C:\\Users\\Admin\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache&quot;,
-      &quot;C:\\Users\\Admin\\AppData\\Local\\Symbols\\src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\Admin\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\Admin\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\Admin\\AppData\\Local\\Symbols\\src"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.Web: http">
     <configuration name="Web: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/FinanZen.Web/FinanZen.Web.csproj" />

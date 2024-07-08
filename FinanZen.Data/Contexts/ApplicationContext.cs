@@ -10,7 +10,6 @@ public class ApplicationContext : DbContext
     public DbSet<UserBill> UserBills { get; set; }
     
     public DbSet<UserEarning> UserEarnings { get; set; }
-    
     public ApplicationContext(DbContextOptions<ApplicationContext> options) : base(options) { }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
