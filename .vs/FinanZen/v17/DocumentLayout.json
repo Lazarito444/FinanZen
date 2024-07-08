@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UserGPC\\Source\\Repos\\FinanZen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C309F624-DD37-443C-A3D6-45CA22C679CD}|FinanZen.Web\\FinanZen.Web.csproj|c:\\users\\usergpc\\source\\repos\\finanzen\\finanzen.web\\views\\home\\mesa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C309F624-DD37-443C-A3D6-45CA22C679CD}|FinanZen.Web\\FinanZen.Web.csproj|solutionrelative:finanzen.web\\views\\home\\mesa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C309F624-DD37-443C-A3D6-45CA22C679CD}|FinanZen.Web\\FinanZen.Web.csproj|c:\\users\\usergpc\\source\\repos\\finanzen\\finanzen.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C309F624-DD37-443C-A3D6-45CA22C679CD}|FinanZen.Web\\FinanZen.Web.csproj|solutionrelative:finanzen.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mesa.cshtml",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\Source\\Repos\\FinanZen\\FinanZen.Web\\Views\\Home\\mesa.cshtml",
+              "RelativeDocumentMoniker": "FinanZen.Web\\Views\\Home\\mesa.cshtml",
+              "ToolTip": "C:\\Users\\UserGPC\\Source\\Repos\\FinanZen\\FinanZen.Web\\Views\\Home\\mesa.cshtml",
+              "RelativeToolTip": "FinanZen.Web\\Views\\Home\\mesa.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T02:49:56.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\Source\\Repos\\FinanZen\\FinanZen.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FinanZen.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\UserGPC\\Source\\Repos\\FinanZen\\FinanZen.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FinanZen.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T02:38:10.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
