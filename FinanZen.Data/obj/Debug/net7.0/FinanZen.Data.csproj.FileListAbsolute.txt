@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\FinanZen\FinanZen.Data\bin\Debug\net7.0\FinanZen.Data.deps.json
+C:\Users\Admin\source\repos\FinanZen\FinanZen.Data\bin\Debug\net7.0\FinanZen.Data.dll
+C:\Users\Admin\source\repos\FinanZen\FinanZen.Data\bin\Debug\net7.0\FinanZen.Data.pdb
+C:\Users\Admin\source\repos\FinanZen\FinanZen.Data\obj\Debug\net7.0\FinanZen.Data.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\FinanZen\FinanZen.Data\obj\Debug\net7.0\FinanZen.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\FinanZen\FinanZen.Data\obj\Debug\net7.0\FinanZen.Data.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FinanZen\FinanZen.Data\obj\Debug\net7.0\FinanZen.Data.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FinanZen\FinanZen.Data\obj\Debug\net7.0\FinanZen.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FinanZen\FinanZen.Data\obj\Debug\net7.0\FinanZen.Data.sourcelink.json
+C:\Users\Admin\source\repos\FinanZen\FinanZen.Data\obj\Debug\net7.0\FinanZen.Data.dll
+C:\Users\Admin\source\repos\FinanZen\FinanZen.Data\obj\Debug\net7.0\refint\FinanZen.Data.dll
+C:\Users\Admin\source\repos\FinanZen\FinanZen.Data\obj\Debug\net7.0\FinanZen.Data.pdb
+C:\Users\Admin\source\repos\FinanZen\FinanZen.Data\obj\Debug\net7.0\ref\FinanZen.Data.dll
