@@ -9,6 +9,7 @@ trigger:
 - QA
 
 pool:
+  name: local
   vmImage: ubuntu-latest
 
 variables:
