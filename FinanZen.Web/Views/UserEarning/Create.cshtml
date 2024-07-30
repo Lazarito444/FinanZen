@@ -1,0 +1,25 @@
+@using FinanZen.Data.Entities
+@model  UserEarning
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<h2>Crear ganancia</h2>
+
+<form method="post" asp-controller="UserEarning" asp-action="Create">
+    <div class="mb-3">
+        <label asp-for="Amount" class="form-label">Cantidad</label>
+        <input asp-for="Amount" type="number" class="form-control">
+    </div>
+    
+    <div class="mb-3">
+        <label asp-for="Reason" class="form-label">Motivo</label>
+        <input type="text" class="form-control" asp-for="Reason">
+    </div>
+
+    <input type="hidden" asp-for="DateTime" value="@DateTime.Now">
+
+    <button type="submit" class="btn btn-primary">Crear</button>
+</form>

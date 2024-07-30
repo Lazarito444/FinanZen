@@ -47,4 +47,9 @@ public class ApplicationContext : DbContext
             .HasForeignKey(userEarning => userEarning.UserId)
             .OnDelete(DeleteBehavior.Cascade);
     }
+    
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    {
+        optionsBuilder.UseInMemoryDatabase("FinanZenDb");
+    }
 }
