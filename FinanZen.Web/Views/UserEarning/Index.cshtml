@@ -1,0 +1,42 @@
+@using FinanZen.Data.Entities
+@using FinanZen.Data.Interfaces
+@model UserEarning
+@inject IUserEarningRepository repository
+@{
+    ViewBag.Title = "Ganancias";
+    Layout = "_Layout";
+    var ganancias = await repository.GetAllAsync(); 
+}
+
+<h2>Ganancias</h2>
+
+<a asp-controller="UserEarning" asp-action="Create" class="mb-6">Añadir Ganancia</a>
+<br>
+<br>
+
+@if (ganancias.Count == 0)
+{
+    <h3>No hay ganancias</h3>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+        <tr>
+            <th scope="col">Cantidad</th>
+            <th scope="col">Fecha</th>
+            <th scope="col">Motivo</th>
+        </tr>
+        </thead>
+        <tbody>
+            @foreach (var ganancia in ganancias)
+            {
+                <tr>
+                    <td>@ganancia.Amount</td>
+                    <td>@ganancia.DateTime</td>
+                    <td>@ganancia.Reason</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

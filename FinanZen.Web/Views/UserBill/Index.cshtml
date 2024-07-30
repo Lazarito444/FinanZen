@@ -1,0 +1,42 @@
+@using FinanZen.Data.Entities
+@using FinanZen.Data.Interfaces
+@model UserBill
+@inject IUserBillRepository repository
+@{
+    ViewBag.Title = "Pérdidas";
+    Layout = "_Layout";
+    var perdidas = await repository.GetAllAsync(); 
+}
+
+<h2>Pérdidas</h2>
+
+<a asp-controller="UserBill" asp-action="Create" class="mb-6">Añadir Pérdidas</a>
+<br>
+<br>
+
+@if (perdidas.Count == 0)
+{
+    <h3>No hay pérdidas</h3>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+        <tr>
+            <th scope="col">Cantidad</th>
+            <th scope="col">Fecha</th>
+            <th scope="col">Motivo</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var perdida in perdidas)
+        {
+            <tr>
+                <td>@perdida.Amount</td>
+                <td>@perdida.DateTime</td>
+                <td>@perdida.Reason</td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}
